@@ -1,4 +1,4 @@
-# Aplicando Conceitos Básicos em Pseudocódigo
+# Conceitos Básicos em Pseudocódigo
 
 Este repositório contém pseudocódigos desenvolvidos como parte das atividades da disciplina de Fundamentos de Algoritmo no curso de Análise e Desenvolvimento de Sistemas (ADS) pela Universidade Federal do Cariri (UFCA). Os pseudocódigos aqui presentes foram criados com o objetivo de aplicar e consolidar os conceitos básicos relacionados à lógica de programação e algoritmos.
 
