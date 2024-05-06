@@ -19,6 +19,7 @@ O conteúdo está organizado em tópicos correspondentes a cada atividade, cada 
 
    soma = numero1 + numero2;
    escrever("A soma é igual a: ", soma);
+<hr>
 
 2. **Faça um algoritmo que receba dois números e ao final mostre a soma, subtração, multiplicação e divisão dos números lidos.**
 
@@ -45,6 +46,7 @@ O conteúdo está organizado em tópicos correspondentes a cada atividade, cada 
    senao{
      escrever("Não é possível dividir por zero.");
    }
+<hr>
 
 3. **Escreva um algoritmo para determinar o consumo médio de um automóvel sendo fornecida a distância total percorrida pelo automóvel e o total gasto de combustível.**
 
@@ -58,6 +60,7 @@ O conteúdo está organizado em tópicos correspondentes a cada atividade, cada 
    consumoMedio = distanciaPercorrida / combustivelGasto;
 
    escrever("O consumo médio do automóvel é de ", consumoMedio, " km/l");
+<hr>
 
 4. **Escreva um algoritmo que leia o nome de um vendedor, o seu salário fixo, e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o seu nome, o salário fixo e o salário ao final do mês.**
 
@@ -78,6 +81,7 @@ O conteúdo está organizado em tópicos correspondentes a cada atividade, cada 
    escrever("Nome do vendedor: ", nomeVendedor);
    escrever("Salário fixo: ", salarioFixo);
    escrever("Salário final ao fim do mês: ", salarioFinal);
+<hr>
 
 5. **Escrever um algoritmo que leia o nome de um aluno e as notas das três provas que ele obteve no semestre. No final informar o nome do aluno e a sua média (aritmética).**
 
@@ -98,6 +102,7 @@ O conteúdo está organizado em tópicos correspondentes a cada atividade, cada 
 
    escrever("Nome do aluno: ", nomeAluno);
    escrever("Media aritmética: ", media);
+<hr>
   
 6. **Ler dois valores A e B, e efetuar a troca dos valores de forma que a variável A passe a possuir o valor da variável B, e a variável B passe a possuir o valor da variável A. Apresentar os valores trocados.**
 
@@ -113,6 +118,7 @@ O conteúdo está organizado em tópicos correspondentes a cada atividade, cada 
    B = valorTrocado;
 
    escrever("Valores trocados: A = ", A, " e B = ", B);
+<hr>
   
 7. **Elaborar um algoritmo que efetue a apresentação do valor da conversão em real (R$) de um valor lido em dólar (US$). O algoritmo deverá solicitar o valor da cotação do dólar e também a quantidade de dólares disponíveis com o usuário.**
 
@@ -126,6 +132,7 @@ O conteúdo está organizado em tópicos correspondentes a cada atividade, cada 
    valorEmReais = quantidadeDolares * cotacaoDolar;
 
    escrever("Valor em reais: R$ ", valorEmReais);
+<hr>
   
 8. **Ler uma temperatura em graus Celsius e apresentá-la convertida em graus Fahrenheit. A formula de conversão e: Fa = 9/5 * Ca + 32, sendo Fa temperatura em Fahrenheit e Ca temperatura em Celsius.**
 
@@ -136,6 +143,7 @@ O conteúdo está organizado em tópicos correspondentes a cada atividade, cada 
    temperaturaFahrenheit = (9/5) * temperaturaCelsius + 32;
 
    escrever("Temperatura em Fahrenheit: ", temperaturaFahrenheit);
+<hr>
 
 9. **Faça um algoritmo que receba o preço de custo de um produto e mostre o valor de venda. Sabe-se que o preço de custo recebera um acréscimo de acordo com um percentual informado pelo usuário.**
 
@@ -150,6 +158,7 @@ O conteúdo está organizado em tópicos correspondentes a cada atividade, cada 
    precoVenda = precoCusto + acrescimo;
 
    escrever("Preço de venda: R$ ", precoVenda);
+<hr>
 
 10. **A XPTO está vendendo seus produtos em 5 (cinco) prestações sem juros. Faça um algoritmo que receba um valor de uma compra e mostre o valor das prestações.**
 
@@ -160,3 +169,7 @@ O conteúdo está organizado em tópicos correspondentes a cada atividade, cada 
     valorPrestacao = valorCompra / 5;
 
     escrever("Valor das prestações é: R$ ", valorPrestacao);
+<hr>
+
+## Fundamentos de Algoritmos
+Acesse o repositório principal: https://github.com/devitruvius/ADS-fundamentos-de-algoritmos
