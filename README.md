@@ -171,5 +171,25 @@ O conteúdo está organizado em tópicos correspondentes a cada atividade, cada 
     escrever("Valor das prestações é: R$ ", valorPrestacao);
 <hr>
 
-## Fundamentos de Algoritmos
-Acesse o repositório principal: https://github.com/devitruvius/ADS-fundamentos-de-algoritmos
+## Navegação
+* **Atividade 1: Pseudocódigo**
+   - [Repositório da Lista de Atividades I](#)
+
+* **Atividade 2: Aplicando Conceitos das Estruturas de Condição em Python**
+   - [Repositório da Lista de Atividades II](https://github.com/devitruvius/ADS-python-conditional-statement)
+
+* **Atividade 3: Aplicando Conceitos das Estruturas de Repetição em Python**
+   - [Repositório da Lista de Atividades III](https://github.com/devitruvius/ADS-python-loop-statement)
+
+* **Atividade 4: Aplicando Conceitos das Estruturas de Listas em Python**
+   - [Repositório da Lista de Atividades IV](https://github.com/devitruvius/ADS-python-lists)
+
+* **Atividade 5: Aplicando Conceitos das Estruturas de Funções em Python**
+   - [Repositório da Lista de Atividades V](https://github.com/devitruvius/ADS-python-functions)
+
+* **Repositório Pai: Fundamentos de Algoritmos**
+   - [Fundamentos de Algoritmos](https://github.com/devitruvius/ADS-fundamentos-de-algoritmos)
+ 
+## Licença
+
+Este repositório está licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/).
