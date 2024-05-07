@@ -173,7 +173,7 @@ O conteúdo está organizado em tópicos correspondentes a cada atividade, cada 
 
 ## Navegação
 * **Atividade 1: Pseudocódigo**
-   - [Repositório da Lista de Atividades I](#)
+   - ***Repositório da Lista de Atividades I***
 
 * **Atividade 2: Aplicando Conceitos das Estruturas de Condição em Python**
    - [Repositório da Lista de Atividades II](https://github.com/devitruvius/ADS-python-conditional-statement)
