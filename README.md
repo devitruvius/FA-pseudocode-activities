@@ -189,6 +189,9 @@ O conteúdo está organizado em tópicos correspondentes a cada atividade, cada 
 
 * **Repositório Pai: Fundamentos de Algoritmos**
    - [Fundamentos de Algoritmos](https://github.com/devitruvius/ADS-fundamentos-de-algoritmos)
+  
+* **Repositório Central: Análise e Desenvolvimento de Sistemas**
+  - [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/devitruvius/college-repository)
  
 ## Licença
 
